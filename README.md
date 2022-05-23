@@ -1,11 +1,11 @@
 # Lucian-s-Lasagna
 An Exercism Exercise in JavaScript
 
-create a time management program /[program to manage time] 
+Create a time management program /[program to manage time] 
 
 * Every thing is calculated in minute
-* 
-givens include:
+ 
+Givens:
 -
 * EXPECTED_MINUTES_IN_OVEN = 40
 * remainingMinutesInOven 
@@ -16,6 +16,7 @@ givens include:
 * actualMinutesInOven
 
 Tasks to create and master:
+--
 1 ) Define Oven time for meal
 -How much time is expeected to cook this meal?
 -Is this constant or will this time vary?
@@ -25,6 +26,7 @@ Tasks to create and master:
 -Whats the bondaries?
 -What do ew expect for output?
 GOAL: function that takes the actual minutes the lasagna has been in the oven as a parameter and returns how many minutes the lasagna still has to remain in the oven, based on the expected oven time in minutes from the previous task
+
 3 ) calculate prep time
 -How much time is expected to prepin total?
 -Why did we chose our parameers?

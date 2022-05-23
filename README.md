@@ -1,10 +1,14 @@
-# Lucian-s-Lasagna
+# Lucian-s-Lasagna 
 An Exercism Exercise in JavaScript
 
-Create a time management program /[program to manage time] 
+Introduction
+--
 
-* Every thing is calculated in minute
- 
+Create a time management program
+* Everything is to calculated in minutes 
+* Use givens
+* Help friend stay on time to save relationshhip
+
 Givens:
 -
 * EXPECTED_MINUTES_IN_OVEN = 40
@@ -15,12 +19,15 @@ Givens:
 * numberOfLayers
 * actualMinutesInOven
 
+
+
 Tasks to create and master:
 --
+
 1 ) Define Oven time for meal
--How much time is expeected to cook this meal?
--Is this constant or will this time vary?
--Should this number be used in other functiond?
+- How much time is expeected to cook this meal?
+- Is this constant or will this time vary?
+- Should this number be used in other functiond?
 
 2 ) Calculate remaining oven time 
 - Whats the bondaries?

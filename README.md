@@ -3,8 +3,10 @@ An Exercism Exercise in JavaScript
 
 create a time management program /[program to manage time] 
 
-* Every thing is calculated in minutes
+* Every thing is calculated in minute
+* 
 givens include:
+-
 * EXPECTED_MINUTES_IN_OVEN = 40
 * remainingMinutesInOven 
 * preparationTimeInMinutes

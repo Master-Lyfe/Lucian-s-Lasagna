@@ -25,7 +25,7 @@ Tasks to create and master:
 2 ) Calculate remaining oven time 
 - Whats the bondaries?
 - What do ew expect for output?
--- GOAL: function that takes the actual minutes the lasagna has been in the oven as a parameter and returns how many minutes the lasagna still has to remain in the oven, based on the expected oven time in minutes from the previous task
+- GOAL: function that takes the actual minutes the lasagna has been in the oven as a parameter and returns how many minutes the lasagna still has to remain in the oven, based on the expected oven time in minutes from the previous task
 
 3 ) calculate prep time
 - How much time is expected to prepin total?

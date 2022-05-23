@@ -23,21 +23,21 @@ Tasks to create and master:
 -Should this number be used in other functiond?
 
 2 ) Calculate remaining oven time 
--Whats the bondaries?
--What do ew expect for output?
-GOAL: function that takes the actual minutes the lasagna has been in the oven as a parameter and returns how many minutes the lasagna still has to remain in the oven, based on the expected oven time in minutes from the previous task
+- Whats the bondaries?
+- What do ew expect for output?
+-- GOAL: function that takes the actual minutes the lasagna has been in the oven as a parameter and returns how many minutes the lasagna still has to remain in the oven, based on the expected oven time in minutes from the previous task
 
 3 ) calculate prep time
--How much time is expected to prepin total?
--Why did we chose our parameers?
+- How much time is expected to prepin total?
+- Why did we chose our parameers?
 
 4 ) Calculate working time total
 - the numberOfLayers parameter is the number of layers you added to the lasagna
 - The function should return how many minutes in total you've worked on cooking the lasagna, which is the sum of the preparation time in minutes, and the time in minutes the lasagna has spent in the oven at the moment
 
 5 ) WriteUp what you found while exploring?
--Why were these concepts worthy of the firt problem solving lesson?
--How has my undestanding changed?
+- Why were these concepts worthy of the firt problem solving lesson?
+- How has my undestanding changed?
 
 
 

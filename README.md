@@ -32,7 +32,8 @@ GOAL: function that takes the actual minutes the lasagna has been in the oven as
 -Why did we chose our parameers?
 
 4 ) Calculate working time total
--
+- the numberOfLayers parameter is the number of layers you added to the lasagna
+- The function should return how many minutes in total you've worked on cooking the lasagna, which is the sum of the preparation time in minutes, and the time in minutes the lasagna has spent in the oven at the moment
 
 5 ) WriteUp what you found while exploring?
 -Why were these concepts worthy of the firt problem solving lesson?
@@ -41,6 +42,7 @@ GOAL: function that takes the actual minutes the lasagna has been in the oven as
 
 
 GIVEN CODE SAMPLES:
+--
 
 remainingMinutesInOven(30);
 // => 10
